@@ -1,15 +1,15 @@
 # 👋 Hola, soy José Barros
 
 *SysAdmin Linux || Estudiante de Desarrollo Java*  
+🎓 Alumno de Facitec – UNICAN (Carrera de Análisis de Sistemas)
 📍 Paraguay  
 
 ---
 
 ### 🚀 Intereses y Objetivos
-- 👀 Interesado en **Programación**, **Infraestructura**, y **Automatización**
+- 👀 Interesado en **Programación**, **Infraestructura** y **Automatización**
 - 🌱 Actualmente aprendiendo **Java**, **Hibernate**, **PostgreSQL** y **DevOps**
 - 💼 Busco colaborar en proyectos **open-source** o **industriales**
-- 🎓 Alumno de Facitec – UNICAN (Carrera de Análisis de Sistemas)
 
 ---
 
