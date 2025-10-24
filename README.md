@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/Ver%20certificaciones-blue?style=for-the-badge&logo=google-classroom" />
 </a>
 
-*(Puedes ir agregando debajo imágenes específicas de tus badges, si lo deseas)*
-
 ---
 
 ### 🔧 Tecnologías que uso
