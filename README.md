@@ -2,7 +2,7 @@
 
 *SysAdmin Linux || Estudiante de Desarrollo Java*  
 
-🎓 Alumno de Facitec – UNICAN – 📍 Paraguay  
+🎓 Facitec – Unican – 📍 Paraguay  
 
 ---
 
